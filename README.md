@@ -1,6 +1,6 @@
 <h1> Namaskar🙏</h1>
 
-  <h3> 👀 I’m interested in Coding...</h3><br><br>
+  <h3> 👀 I’m interested in Coding...</h3>
 <h4> Contact me on..</h4><br>
 <a href="https://www.linkedin.com/in/keshav-raj-0674b029a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
     <img align="left" alt="LinkedIn" width="50px" src="https://img.icons8.com/clouds/500/000000/linkedin.png"/>
