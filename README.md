@@ -12,7 +12,9 @@
 <a href="https://www.hackerrank.com/profile/itsrajkeshav">
   <img align="left" alt="HackerRank" width="40px" src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/96/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-filled-tal-revivo.png"/>
 </a>
+<br><br><br>
 
+![Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itz-rajkeshav&theme=radical&layout=compact)
 
 
 
