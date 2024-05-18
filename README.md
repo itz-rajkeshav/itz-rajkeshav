@@ -14,6 +14,8 @@
 </a>
 <br><br><br>
 
+![Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itz-rajkeshav&theme=radical&layout=compact)
+
 
 
 
