@@ -13,6 +13,9 @@
 <a href="https://www.hackerrank.com/profile/itsrajkeshav">
   <img align="left" alt="HackerRank" width="40px" src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/96/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-filled-tal-revivo.png"/>
 </a>
+<a href="https://leetcode.com/u/raj_keshav/">
+    <img align="left" alt="LeetCode" width="30px" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/96/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png"/>
+</a>
 <br><br><br>
 
 <table>
