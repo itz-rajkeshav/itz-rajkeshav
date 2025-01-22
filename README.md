@@ -8,7 +8,19 @@
     <img align="left" alt="Telegram" width="50px" src="https://img.icons8.com/clouds/500/000000/telegram-app.png"/>
 </a>
 <br><br>
+<h4>
+## 🛠️ Tech Stack
+</h4>
+<div align="left">
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" height="65" />
+  <img src="https://skillicons.dev/icons?i=c" width="65" height="60"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="65" height="60"/>
 
+</div>
 <h4>My coding profile:</h4>
 <a href="https://www.hackerrank.com/profile/itsrajkeshav">
   <img align="left" alt="HackerRank" width="40px" src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/96/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-filled-tal-revivo.png"/>
