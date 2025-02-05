@@ -16,9 +16,10 @@
   <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
   <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
   <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
   <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" height="65" />
-  <img src="https://skillicons.dev/icons?i=c" width="65" height="60"/>
-  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="65" height="60"/>
+  <img src="https://skillicons.dev/icons?i=c" width="65" height="55"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="65" height="55"/>
 
 </div>
 <h4>My coding profile:</h4>
