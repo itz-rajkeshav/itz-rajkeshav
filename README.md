@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/itz-rajkeshav/readme/main/banner2.gif"
+    src="https://raw.githubusercontent.com/itz-rajkeshav/readme/main/banner3.gif"
     alt="Keshav Raj Animated Banner"
     width="100%"
   />
