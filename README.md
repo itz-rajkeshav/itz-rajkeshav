@@ -7,11 +7,6 @@
 </p>
 
 
-
-
-  
-
-
 <h4>Contact me on:</h4>
 <a href="https://www.linkedin.com/in/keshav-raj-0674b029a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
     <img align="left" alt="LinkedIn" width="50px" src="https://img.icons8.com/clouds/500/000000/linkedin.png"/>
@@ -38,12 +33,16 @@
 <a href="https://www.hackerrank.com/profile/itsrajkeshav">
   <img align="left" alt="HackerRank" width="40px" src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/96/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-filled-tal-revivo.png"/>
 </a>
+
 <a href="https://leetcode.com/u/raj_keshav/">
     <img align="left" alt="LeetCode" width="30px" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/96/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png"/>
 </a>
 <br><br><br>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=itz-rajkeshav&label=Profile%20views&color=0e75b6&style=flat" alt="itz-rajkeshav" />
+</p>
 
-<table>
+<!-- <table>
   <tr>
     <td>
       <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itz-rajkeshav&theme=radical&layout=compact" />
@@ -52,6 +51,6 @@
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=itz-rajkeshav&show_icons=true&theme=radical&hide_border=true" />
     </td>
   </tr>
-</table>
+</table> -->
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=itz-rajkeshav&theme=github-dark&hide_border=true)
