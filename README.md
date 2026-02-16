@@ -40,10 +40,9 @@
 
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=itz-rajkeshav&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=itz-rajkeshav&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
 <br/>
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=itz-rajkeshav&theme=tokyonight&hide_border=true)
-
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=itz-rajkeshav&theme=github-dark&hide_border=true)
 </div>
 
 <!-- Snake animation at bottom -->
