@@ -27,12 +27,24 @@
   <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="70" height="70"/>
   <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="70" height="70"/>
   <img src="https://techstack-generator.vercel.app/nginx-icon.svg" width="70" height="70"/>
-  <img src="https://skillicons.dev/icons?i=c,mongodb" width="70" height="70"/>
+  <img src="https://skillicons.dev/icons?i=c" width="70" height="70"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="70" height="70"/>
 </div>
 
-<!-- Your existing profiles, stats, streak, etc. -->
+### 📊 **GitHub Stats**
 
+<div align="center">
 
+[![Keshav's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=itz-rajkeshav&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/itz-rajkeshav)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=itz-rajkeshav&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/itz-rajkeshav)
+
+<br/>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=itz-rajkeshav&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+<br/>
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=itz-rajkeshav&theme=tokyonight&hide_border=true)
+
+</div>
 
 <!-- Snake animation at bottom -->
 <p align="center">
