@@ -3,6 +3,10 @@ on:
   schedule:
     - cron: "0 0 * * *"   # every day at midnight UTC
   workflow_dispatch:      # allows manual run
+
+permissions:
+  contents: write
+
 jobs:
   generate:
     runs-on: ubuntu-latest
