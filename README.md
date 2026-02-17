@@ -17,6 +17,11 @@
   </a>
 </p>
 
+<h4 align="center">Profile View:</h4>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=itz-rajkeshav&label=👀%20Profile%20Views&color=00D4FF&style=for-the-badge&logo=starship&logoColor=white" />
+</p> 
+
 <h2 align="center">🛠️ Tech Stack</h2>
 <div align="center">
   <!-- Paste animated icons from techstack-generator.vercel.app here -->
