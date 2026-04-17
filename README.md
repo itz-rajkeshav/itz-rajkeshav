@@ -23,18 +23,18 @@
 </p> 
 
 <h2 align="center">🛠️ Tech Stack</h2>
-<div align="center">
-  <!-- Paste animated icons from techstack-generator.vercel.app here -->
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" width="70" height="70"/>
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" width="70" height="70"/>
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" width="70" height="70"/>
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="70" height="70"/>
-  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="70" height="70"/>
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="70" height="70"/>
-  <img src="https://techstack-generator.vercel.app/nginx-icon.svg" width="70" height="70"/>
-  <img src="https://skillicons.dev/icons?i=c" width="70" height="70"/>
-  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="70" height="70"/>
-</div>
+
+<p align="center">
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" width="70" />
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" width="70" />
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" width="70" />
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="70" />
+  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="70" />
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="70" />
+  <img src="https://techstack-generator.vercel.app/nginx-icon.svg" width="70" />
+  <img src="https://skillicons.dev/icons?i=c" width="70" />
+  <img src="https://skillicons.dev/icons?i=mongodb" width="70" />
+</p>
 
 ### 📊 **GitHub Stats**
 
