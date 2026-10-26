@@ -40,14 +40,14 @@
 
 <div align="center">
 
-[![Keshav's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=itz-rajkeshav&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/itz-rajkeshav)
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=itz-rajkeshav&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/itz-rajkeshav)
+[![Keshav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=itz-rajkeshav&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/itz-rajkeshav)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=itz-rajkeshav&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/itz-rajkeshav)
 
 <br/>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=itz-rajkeshav&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
 <br/>
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=itz-rajkeshav&theme=github-dark&hide_border=true)
+![GitHub Activity Graph](https://activity-graph.vercel.app/graph?username=itz-rajkeshav&theme=github-dark&hide_border=true)
 </div>
 
 <!-- Snake animation at bottom -->
